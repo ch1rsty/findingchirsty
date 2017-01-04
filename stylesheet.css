@@ -10,3 +10,10 @@ body: {
 nav: {
     background-color: #626E60;
 }
+
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 1em;
+        margin-right : 1em;
+    }
+}
