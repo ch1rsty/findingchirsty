@@ -3,10 +3,10 @@ img.img-circle {
     max-height: auto;
     }
 
-background: {
-    color: #945D60;
+body: {
+    background-color: #945D60;
 }
 
-navbar: {
+div.navbar: {
     background-color: #626E60;
 }
