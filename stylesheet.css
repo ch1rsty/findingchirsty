@@ -31,7 +31,7 @@ img.header {
 
 .hovereffect {
     max-width: 250px;
-    max-height: auto;
+    max-height: 100px;
   width: 100%;
   height: 100%;
   float: left;
@@ -43,7 +43,7 @@ img.header {
 
 .hovereffect .overlay {
       max-width: 250px;
-    max-height: auto;
+    max-height: 100px;
   position: absolute;
   overflow: hidden;
   opacity: 0;
