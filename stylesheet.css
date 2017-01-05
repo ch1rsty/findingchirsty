@@ -1,14 +1,11 @@
-html {
-    height: 100%
-}
-
 img.img-circle {
     max-width: 250px;
     max-height: auto;
     }
 
 body {
-    background: #945D60 !important; 
+    background-color: #945D60;
+    background-size: 100%;
 }
 
 nav {
