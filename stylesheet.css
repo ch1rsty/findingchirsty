@@ -18,6 +18,10 @@ div.container {
 div.col-lg-4 {
     max-height: 240px;
 }
+div.column-center {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 nav {
     background-color: #626E60;
