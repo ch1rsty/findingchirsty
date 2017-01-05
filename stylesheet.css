@@ -3,7 +3,7 @@ img.img-circle {
     max-height: auto;
     }
 
-body {
+html, body {
     background-color: #945D60;
     background-size: 100%;
 }
