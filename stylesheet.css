@@ -63,6 +63,8 @@ img.header {
 
 .hovereffect:hover .overlay {
   background-color: rgba(0,0,0,0.3);
+    max-height: 240px;
+    max-width: auto;
 }
 
 .hovereffect img {
