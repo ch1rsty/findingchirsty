@@ -10,6 +10,12 @@ body {
     
 }
 
+div.container {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+
 nav {
     background-color: #626E60;
 }
