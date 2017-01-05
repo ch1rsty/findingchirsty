@@ -20,3 +20,7 @@ nav {
         margin-right : 1em;
     }
 }
+
+img.header {
+    position: relative;
+}
