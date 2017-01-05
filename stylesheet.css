@@ -8,7 +8,7 @@ img.img-circle {
     }
 
 body {
-    background: #945D60; 
+    background: #945D60 !important; 
 }
 
 nav {
